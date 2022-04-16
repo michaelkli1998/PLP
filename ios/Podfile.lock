@@ -300,7 +300,7 @@ PODS:
     - React-perflogger (= 0.67.2)
   - RNCAsyncStorage (1.17.3):
     - React-Core
-  - RNDateTimePicker (5.1.0):
+  - RNDateTimePicker (6.1.2):
     - React-Core
   - RNGestureHandler (1.10.3):
     - React-Core
@@ -502,7 +502,7 @@ SPEC CHECKSUMS:
   React-runtimeexecutor: 2450b43df7ffe8e805a0b3dcb2abd4282f1f1836
   ReactCommon: d98c6c96b567f9b3a15f9fd4cc302c1eda8e3cf2
   RNCAsyncStorage: 005c0e2f09575360f142d0d1f1f15e4ec575b1af
-  RNDateTimePicker: 1dd15d7ed1ab7d999056bc77879a42920d139c12
+  RNDateTimePicker: 6f1f0b4cf7c71b6e2aea7a3aa62969111084bbd1
   RNGestureHandler: a479ebd5ed4221a810967000735517df0d2db211
   RNGoogleSignin: d7f8368b82d94f1dec964785d496387ca7f19092
   RNScreens: 40a2cb40a02a609938137a1e0acfbf8fc9eebf19
