@@ -33,7 +33,7 @@ npm-debug.log
 yarn-error.log
 
 # Generated
-vendor
+/vendor
 
 # BUCK
 buck-out
