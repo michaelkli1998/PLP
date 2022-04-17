@@ -1,8 +1,8 @@
-# OSX
+# OSX System Files
 .DS_Store
 
 # Xcode IDE
-build/
+build
 *.pbxuser
 !default.pbxuser
 *.mode1v3
@@ -20,7 +20,7 @@ DerivedData
 *.xcuserstate
 
 # Android / IntelliJ IDE
-build/
+build
 .idea
 .gradle
 local.properties
@@ -28,15 +28,15 @@ local.properties
 *.hprof
 
 # Dependencies
-node_modules/
+node_modules
 npm-debug.log
 yarn-error.log
 
 # Generated
-vendor/
+vendor
 
 # BUCK
-buck-out/
+buck-out
 \.buckd/
 *.keystore
 !debug.keystore
@@ -45,4 +45,4 @@ buck-out/
 *.jsbundle
 
 # CocoaPods
-/ios/Pods/
+/ios/Pods
